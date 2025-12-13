@@ -1,4 +1,4 @@
-# [Download v1.0](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v4.1/Black-Ops-3_v4.1.asl)
+# [Download v1.0](https://github.com/oJumpy/WWII-Zombies-AutoTimers/releases/download/v1.0/WWII-Master.-.1.0.asl)
 
 # WWII-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: WWII Zombies.
